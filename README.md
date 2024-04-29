@@ -1,10 +1,10 @@
-# Generate ReadMe
+# Blurp Blorp
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+ 
 
 ## Description
 
-This project takes user input and generates an easy-to-read ReadMe that they can use for their project.
+A timemachine for gnats
 
 ## Table of Contents (Optional)
 
@@ -16,26 +16,27 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-Run the following code in your command shell  ``` npm i ```
+By tapping your head and rubbing your tummy
 
 ## Usage
 
-This project is designed for anyone to create a quick ReadMe.
+They should NEVER
 
 ## License
 
-undefined
-undefined
+ 
+
+ 
 
 ## How to Contribute
 
-Feel free to contribute anything! Just make sure you fork the path in GitHub :)
+It's probably best if they didn't
 
 ## Tests
 
-Run the code and then check your readme afterwards
+Do the gnats travel?
 
 ## Questions
 
-Please refer to my [GitHub](https://github.com/skylerrhys) if you have further questions.
-Otherwise, you can reach me at skylerrhys@gmail.com.
+Please refer to my [GitHub](https://github.com/Batman69) if you have further questions.
+Otherwise, you can reach me at Email@email.com.
